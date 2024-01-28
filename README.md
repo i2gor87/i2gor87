@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Igor Hwang</h1>
-<h3 align="center">Multilingual Software Engineer from Korea</h3>
+<h3 align="center">Multilingual problem-solver from Korea</h3>
 
 - 🔭 I’m currently working on [baguni](https://github.com/i2gor87/baguni)
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **panini, fastapi**
 
-- 📫 How to reach me **i2gor87@gmail.com**
+- 📫 Reach me at **i2gor87@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
