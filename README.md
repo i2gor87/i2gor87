@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [baguni](https://github.com/i2gor87/baguni)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **System Architecture**
 
 - 💬 Ask me about **panini, fastapi**
 
